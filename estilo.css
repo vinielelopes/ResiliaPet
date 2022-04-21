@@ -96,11 +96,15 @@ img{
 	align-items: center;
 	height: 100px;
 	width: 250px;
-	margin-left: 25%;
 	text-align: center;
 	border: 1px black dotted;
 }
 h3 a{
 	text-decoration: none;
 	color: black;
+}
+article{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
